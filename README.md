@@ -25,3 +25,7 @@ Predict ratings by averaging the ratings of similar users/items.
 Recommend top-N items based on predicted scores.
 2. Matrix Factorization (MF):Matrix Factorization decomposes the user-item interaction matrix into lower-dimensional matrices.
 Python Libraries: surprise, scipy, numpy)
+
+#OUTPUT
+
+<img width="1100" height="905" alt="Image" src="https://github.com/user-attachments/assets/372954df-32e3-488b-83c7-8429a092e6b9" />
